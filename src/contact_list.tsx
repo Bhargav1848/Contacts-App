@@ -27,7 +27,7 @@ const listed = [
   },
   {
     id: 6,
-    name: "Shivam Singh",
+    name: "Rekha",
     phoneNumber: 9877899876,
   },
 ];
